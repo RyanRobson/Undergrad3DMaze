@@ -1,7 +1,0 @@
-To do list
-- remove map view, replace with map that fills as it is explored.  
-- find 3D model for treasue
-- work on animating 3d enemy model
-- mark the start and end points of the maze
-- re write Point Method, remove use of Integer - makes code clunky
-
